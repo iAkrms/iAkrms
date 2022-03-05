@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iAkrms
-- 👀 I’m interested in ML, AL, Process Control, Advanced Process Control, Data Science and Programming.
+- 👀 I’m interested in ML, AI, Process Control, Advanced Process Control, Data Science and Programming.
 - 🌱 I’m currently learning Python and AI & ML applications
 - 💞️ I’m looking to collaborate on AI and ML applications
 - 📫 How to reach me: Linkedin\Twitter: @iAkrms,
